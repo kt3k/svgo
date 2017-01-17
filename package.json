@@ -39,18 +39,18 @@
     "test": "make test"
   },
   "dependencies": {
-    "sax": "~1.1.1",
+    "sax": "~1.2.1",
     "coa": "~1.0.1",
-    "js-yaml": "~3.3.1",
+    "js-yaml": "~3.7.0",
     "colors": "~1.1.0",
     "whet.extend": "~0.9.9",
     "mkdirp": "~0.5.1"
   },
   "devDependencies": {
-    "mocha": "~2.2.5",
-    "should": "6.0.3",
-    "istanbul": "~0.3.14",
-    "mocha-istanbul": "~0.2.0",
+    "mocha": "~3.2.0",
+    "should": "11.1.2",
+    "istanbul": "~0.4.5",
+    "mocha-istanbul": "~0.3.0",
     "coveralls": "~2.11.2"
   },
   "engines": {
